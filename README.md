@@ -1,6 +1,6 @@
 # Jogo da velha
 
-.![jogo da veha](https://vitorportifolio.herokuapp.com/imagens/jogoVelha.PNG)
+.![jogo da veha](https://abrilsuperinteressante.files.wordpress.com/2018/07/jogo_da_velha_-_tic_tac_toe.png?w=382&h=323)
 
 ## Objetivo
 
